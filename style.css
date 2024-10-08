@@ -1,0 +1,22 @@
+img {
+    border: 1px solid black;
+    float: none ;
+}
+hr {
+    height: 3px;
+    width: 1000px ;
+    background-color: grey;
+}
+p {
+    padding-left: 10px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+#para {
+    text-align: justify;
+}
+* {
+    font-variant: small-caps;
+}
